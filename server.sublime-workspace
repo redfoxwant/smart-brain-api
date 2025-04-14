@@ -1,0 +1,490 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"nodemon"
+			],
+			[
+				"s",
+				"Signin"
+			],
+			[
+				"r",
+				"route"
+			],
+			[
+				"on",
+				"onRouteChange"
+			],
+			[
+				"o",
+				"onRouteChange"
+			],
+			[
+				"a",
+				"article"
+			],
+			[
+				"bo",
+				"bottomRow"
+			],
+			[
+				"rigth",
+				"rightCol"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"c",
+				"className"
+			],
+			[
+				"d",
+				"displayFaceBox"
+			],
+			[
+				"b",
+				"bottomRow"
+			],
+			[
+				"cl",
+				"clarifaiFace"
+			],
+			[
+				"l",
+				"leftCol"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"con",
+				"const"
+			],
+			[
+				"co",
+				"const"
+			],
+			[
+				"ti",
+				"this"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"app",
+				"App"
+			],
+			[
+				"par",
+				"particlesOptions"
+			],
+			[
+				"C",
+				"components"
+			],
+			[
+				"DE",
+				"detect"
+			],
+			[
+				"de",
+				"direction"
+			],
+			[
+				"re",
+				"readFile"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"pr",
+				"profile"
+			],
+			[
+				"get",
+				"getting"
+			],
+			[
+				"redu",
+				"reduceArray"
+			],
+			[
+				"fi",
+				"filterArray"
+			],
+			[
+				"p",
+				"player"
+			],
+			[
+				"col",
+				"color2"
+			],
+			[
+				"color",
+				"color1"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"cre",
+				"createListElement"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"B",
+				"button"
+			],
+			[
+				"pa",
+				"passwordPrompt"
+			],
+			[
+				"user",
+				"userNamePrompt"
+			],
+			[
+				"borde",
+				"border-color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"bor",
+				"border-right\tproperty"
+			],
+			[
+				"bord",
+				"border-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"backg",
+				"background-size\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"babel",
+				"Preferences: Babel – User"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"bab",
+				"Preferences: Babel – Default"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 206.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/TITO/smart-brain-api/package.json",
+		"/C/Users/TITO/smart-brain-api/package-lock.json",
+		"/C/Users/TITO/facerecognitionbrain/src/components/FaceRecognition/FaceRecognition.js",
+		"/C/Users/TITO/facerecognitionbrain/src/App.js",
+		"/C/Users/TITO/smart-brain-api/server.js",
+		"/C/Users/TITO/facerecognitionbrain/src/components/Signin/Signin.js",
+		"/C/Users/TITO/facerecognitionbrain/src/components/Navigation/Navigation.js",
+		"/C/Users/TITO/facerecognitionbrain/src/index.css",
+		"/C/Users/TITO/facerecognitionbrain/src/components/FaceRecognition/FaceRecognition.css",
+		"/C/Users/TITO/facerecognitionbrain/src/components/Rank/Rank.js",
+		"/C/Users/TITO/facerecognitionbrain/src/components/ImageLinkForm/ImageLinkForm.js",
+		"/C/Users/TITO/facerecognitionbrain/src/App.css",
+		"/C/Users/TITO/facerecognitionbrain/src/components/ImageLinkForm/ImagelinkForm.css",
+		"/C/Users/TITO/facerecognitionbrain/package.json",
+		"/C/Users/TITO/facerecognitionbrain/src/components/Logo/Logo.js",
+		"/C/Users/TITO/facerecognitionbrain/node_modules/react-refresh/babel.js",
+		"/C/Users/TITO/facerecognitionbrain/src/components/Logo/Logo.css",
+		"/C/Users/TITO/facerecognitionbrain/src/index.js",
+		"/C/Users/TITO/AppData/Roaming/Sublime Text 3/Packages/User/Babel.sublime-settings",
+		"/C/Users/TITO/AppData/Roaming/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/C/Users/TITO/facerecognitionbrain/src/logo.svg",
+		"/C/Users/TITO/awesome-node/hello.txt",
+		"/C/Users/TITO/awesome-node/script.js",
+		"/C/Users/TITO/awesome-node/bye.txt",
+		"/C/Users/TITO/Node/script.js",
+		"/C/Users/TITO/Node/server.js",
+		"/C/Users/TITO/Node/public/index.html",
+		"/C/Users/TITO/Node/package.json",
+		"/C/Users/TITO/Node/sever.js",
+		"/C/Users/TITO/Node/script2.js",
+		"/C/Users/TITO/robofriends/src/index.js",
+		"/C/Users/TITO/robofriends/src/Card.js",
+		"/C/Users/TITO/robofriends/src/robots.js",
+		"/C/Users/TITO/robofriends/src/App.js",
+		"/C/Users/TITO/robofriends/src/Hello.css",
+		"/C/Users/TITO/robofriends/src/Hello.js",
+		"/C/Users/TITO/Desktop/web dev/index.html",
+		"/C/Users/TITO/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/TITO/Desktop/web dev/style.css",
+		"/C/Users/TITO/Desktop/web dev/script.js",
+		"/C/Users/TITO/Desktop/web dev/rstyle.css",
+		"/C/Users/TITO/Desktop/web dev/rindex.html",
+		"/C/Users/TITO/Desktop/MX/vids/[FreeTutorials.Eu] Udemy - The Complete Web Developer in 2019 Zero to Mastery/8. Bootstrap 4, Templates, And Building Your Startup Landing Page/8.1 index.html.html",
+		"/C/Users/TITO/Desktop/web dev/about.html",
+		"/C/Users/TITO/Desktop/web dev/style2.css",
+		"/C/Users/TITO/Desktop/web dev/login.html",
+		"/C/Users/TITO/Desktop/web dev/index2.html",
+		"/C/Users/TITO/Desktop/web dev/stlye.css",
+		"/C/Users/TITO/Desktop/web dev/register.html",
+		"/C/Users/TITO/Desktop/web dev/waitbutwhy.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 74.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "server.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"babe",
+				"node_modules\\react-refresh\\babel.js"
+			],
+			[
+				"",
+				"Package Control Messages"
+			],
+			[
+				"in",
+				"C:\\Users\\TITO\\Desktop\\web dev\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
